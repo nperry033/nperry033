@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nperry033
+- 👀 I’m interested in machine learning, specifically for the stock market, but really any machine learning in general
+- 🌱 I’m currently learning Julia
+- 💞️ I’m looking to collaborate on anything related to Java, Julia, machine learning, finance/accounting related projects, raspberry pi projects, or anything else interesting
+- 📫 You can reach me at nperry033@gmail.com
